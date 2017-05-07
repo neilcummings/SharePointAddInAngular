@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f97dfb70-bc94-4471-b658-d89ee56e719f" 
+        solutionId="f97dfb70-bc94-4471-b658-d89ee56e719f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePointAddInAngular"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="e6c717c4-af24-4425-8922-4ec71562f368" />
+  </features>
+</package>
